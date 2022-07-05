@@ -1,9 +1,9 @@
 # tradeAnalysis
-#dataGet
+# dataGet
 support file to download market data
-#SP500replicate
+# SP500replicate
 choose your set of stocks and check how many you should buy to match SP500 index proportions
-#multirebalance
+# multiRebalance
 check multirebalance strategy performance
-#backtest
+# backtest
 check various strategies performances
